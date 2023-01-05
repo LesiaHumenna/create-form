@@ -1,0 +1,294 @@
+@media screen and (max-width: 1290px){
+  .wrapper{
+    max-width: 1115px;
+  }
+  .block-box{
+    bottom: 180px;
+  }
+  .title-about{
+    font-size: 0.8rem;
+  }
+  .block-elips{
+    width: 100%;
+    padding-top: 40px;
+  }
+  .subtitle-foto{
+    padding-top: 0px;
+  }
+  .linia-block{
+    top: 95%;
+  }
+  .title{
+    font-size: 1.8rem;
+  }
+}
+@media screen and (max-width: 1130px){
+  
+  
+  
+  .block-moon{
+    width: 22px;
+    height: 22px;
+  }
+  .subtitle{
+    font-size: 14px;
+    color: brown;
+  }
+  .block-range{
+    width: 58px;
+    height: 24px;
+  }
+  .block-box{
+    display: flex;
+    position: absolute;
+    bottom: 130px;
+  }
+  .block-elips{ 
+    padding-top: 40px;
+  }
+  .subtitle-foto{
+    padding-top: 0px;
+    font-size: 0.8rem;
+  }
+  .title-about{
+    font-size: 0.9rem;
+  }
+  .number-1{
+    font-size: 1rem;
+  }
+  .number-2{
+    font-size: 1rem;
+  }
+  .title{
+    font-size: 1.7rem;
+  }
+}
+
+@media screen and (max-width: 970px){
+  .header-nav{
+    height: 26px;
+    gap: 5px;
+  }
+  .block-moon{
+    width: 20px;
+    height: 20px;
+  }
+  .subtitle{
+    font-size: 12px;
+    color: blueviolet;
+  }
+  .block-range{
+    max-width: 45px;
+    height: 19px;
+  }
+  .block-box{
+    display: flex;
+    justify-content: flex-end;
+    width: 74%;
+    height: 85px;
+    bottom: 130px;
+  }
+  .block-about{
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+  }
+  .title-about{
+    font-size: 1rem;
+  }
+  .block-elips{
+    padding-top: 35px;
+  }
+  .foto-elips{
+    width: 36px;
+    height: 36px;
+  }
+  .subtitle-foto{
+    font-size: 0.9rem;
+    padding-top: 0px;
+  }
+  .block-number{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+  }
+  .number-1{
+    font-size: 0.9rem;
+  }
+  .number-2{
+    font-size: 0.9rem;
+  }
+  .linia-block{
+    top: 98%;
+  }
+  .title-box{
+    left: 40px;
+  }
+  .title{
+    font-size: 1.6rem;
+  }
+}
+
+@media screen and (max-width: 765px){
+  .header-nav{
+    height: 22px;
+  
+  }
+  .block-moon{
+    width: 20px;
+    height: 20px;
+  }
+  .subtitle{
+    font-size: 10px;
+    color: rgb(248, 161, 22);
+  }
+  .block-box{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    bottom: 75px;     
+  }
+  .block-about{
+    width: 180px;
+  }
+  .title-about{
+    font-size: 0.8rem;
+  }
+  .block-elips{
+    padding-top: 28px;
+    min-width: 100%;
+  }
+  .foto-elips{
+    width: 33px;
+    height: 33px;
+  }
+  .subtitle-foto{
+    font-size: 0.7rem;
+    padding-top: 0px;
+    padding-bottom: 0.5px;
+  }
+  .block-number{
+    padding-left: 0px;
+  }
+  .number-1{
+    font-size: 0.7rem;
+    padding-bottom: 10px;
+  }
+  .number-2{
+    font-size: 0.7rem;
+  }
+  .title-box{
+    align-items: center;
+    padding-top: 30px;
+  }
+  .title{
+    font-size: 1.4rem;
+  }
+  .text-account{
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 660px){
+  .header{
+    display: block;
+    justify-content: center;
+    padding: 43px 70px;
+  }
+  .header-nav{
+    display: flex;
+    justify-content: center;
+
+  }
+  .block-moon{
+    width: 24px;
+    height: 24px;
+  }
+  .subtitle{
+    font-size: 15px;
+    color: rgb(248, 161, 22);
+  }
+  .block-range{
+    max-width: 65px;
+    height: 24px;
+  }
+  .main__conteiner{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .conteiner-left, .conteiner-right{
+    width: 100%;
+  }
+  .main-foto{
+    min-width: 100%;
+    
+  }
+  .block-box{
+    display: flex;
+    justify-content: center;
+    
+}
+.block-elips{
+  padding-top: 30px;
+}
+.title-about{
+  font-size: 1rem;
+}
+.foto-elips{
+  width: 38px;
+  height: 38px;
+}
+.subtitle-foto{
+  font-size: 1rem;
+}
+.number-1{
+  font-size: 1rem;
+  padding-bottom: 21px;
+}
+.number-2{
+  font-size: 1rem;
+}
+.linia-block{
+  left: 36%;
+}
+.title-box{
+  bottom: 70px;
+  display: flex;
+  justify-self: center;
+}
+.title{
+  font-size: 1.9rem;
+}
+}
+
+@media screen and (max-width: 460px){
+  .title-box{
+    display: flex;
+    justify-content: center;
+    left: 0px;
+  }
+  .title{
+    align-items: center;
+  }
+  .block-box{
+    bottom: 80px;
+  }
+  .block-about{
+    width: 150px;
+  }
+  .title-about{
+    font-size: 0.7rem;
+  }
+  .subtitle-foto{
+    font-size: 0.7rem;
+}
+  .number-1{
+    font-size: 0.7rem;
+  }
+  .number-2{
+    font-size: 0.7rem;
+  }
+}
