@@ -272,6 +272,9 @@ input{
   background: none;
   border-bottom: 1px solid #FFFFFF;
 }
+#User-ps{
+  background: url(./img.web/eye-slash.png);
+}
 .checkbox-block{
   display: flex;
   align-items: flex-start;
