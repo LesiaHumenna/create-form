@@ -279,7 +279,7 @@ input{
   gap: 15px;
 }
 .checkbox-block :hover{
-  background: #D0A920;
+  color: #D0A920;
 }
 .text-checkbox{
   font-family: 'Poppins';
